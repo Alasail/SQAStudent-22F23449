@@ -1,0 +1,11 @@
+Int patid;
+Float discount, total, app_fee,test_fee,med_fee
+Read patid,app_fee,test fee, med_fee
+total=app_fee+test_fee+med_fee
+If Total>100 then
+ discount=total*10/100
+Total=total-discount
+else
+Print “no discount “
+ endif
+ print patid “billamount is “ Total
