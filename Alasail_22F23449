@@ -9,3 +9,5 @@ else
 Print “no discount “
  endif
  print patid “billamount is “ Total
+ Cyclomatic complexity=edges-nodes+2
+=9-9+2
